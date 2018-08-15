@@ -1,0 +1,14 @@
+.model case2
+.inputs a b c
+.outputs d
+.names b c e
+00 1
+.names a e f
+10 1
+.names b c g
+11 1
+.names f g h
+00 1
+.names h d
+0 1
+.end

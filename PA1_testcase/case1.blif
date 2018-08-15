@@ -1,0 +1,20 @@
+.model case1
+.inputs a b c
+.outputs k
+.names a b d
+11 1
+.names b c e
+11 1
+.names a c f
+11 1
+.names d e g
+00 1
+.names g f h
+10 1
+.names g h i
+10 1 
+.names h f j
+01 1
+.names i j k
+11 1
+.end
